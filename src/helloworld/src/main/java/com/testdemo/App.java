@@ -8,6 +8,13 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!!!" );
+        int x = 2, y = 78, z;
+
+        z = x + y;
+
+        System.out.println( "Hello World!!! " );
+        System.out.println( "Donald Duck " );
+        System.out.println( "Z = " + z );
+
     }
 }
